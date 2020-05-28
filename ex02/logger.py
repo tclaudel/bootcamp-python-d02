@@ -26,7 +26,7 @@ def log(fct):
     return new_fct
 
 
-class CoffeeMachine():
+class CoffeeMachine:
     water_level = 100
 
     @log
