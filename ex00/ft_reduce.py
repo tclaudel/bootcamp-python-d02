@@ -1,5 +1,6 @@
 import functools
 
+
 def ft_reduce(function_to_apply, list_of_inputs):
     result = 0
     for item in list_of_inputs:
